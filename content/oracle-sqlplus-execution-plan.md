@@ -1,5 +1,6 @@
 +++
 title = "Getting query execution plan in Oracle sqlplus"
+date = 2020-04-02
 +++
 
 ```bash
