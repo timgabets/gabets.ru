@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'AnkaCoderBold';
+        src: url('/fonts/anka-coder/AnkaCoderBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'AnkaCoderBoldItalic';
+        src: url('/fonts/anka-coder/AnkaCoderBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'AnkaCoderItalic';
+        src: url('/fonts/anka-coder/AnkaCoderItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'AnkaCoderRegular';
+        src: url('/fonts/anka-coder/AnkaCoderRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+ /* The following rules are deprecated. */
+
+@font-face {
+    font-family: 'Anka/Coder';
+        src: url('/fonts/anka-coder/AnkaCoderBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+      }
+
+
+
+@font-face {
+    font-family: 'Anka/Coder';
+        src: url('/fonts/anka-coder/AnkaCoderBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+      }
+
+
+
+@font-face {
+    font-family: 'Anka/Coder';
+        src: url('/fonts/anka-coder/AnkaCoderItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+
+
+@font-face {
+    font-family: 'Anka/Coder';
+        src: url('/fonts/anka-coder/AnkaCoderRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
