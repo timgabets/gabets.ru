@@ -13,4 +13,11 @@
 		<p>30. If you happen to have any questions or just would like to contact me, you can do this by <a href="mailto:tim@gabets.ru">email</a>. You can also find me on <a href="https://github.com/timgabets">Github</a>, <a href="https://www.linkedin.com/in/tim-gabets-18253b42/">LinkedIn</a>, <a href="https://www.goodreads.com/timgabets">Goodreads</a> and <a href="https://www.instagram.com/timgabets/">Instagram</a>.</p>
 		<p>40. My GPG key is <a href="static/Tim%20Gabets.asc">CD5A97B2</a> registered using Email address tim@gabets.ru. Other keys registered on my name are no longer in use.</p>
 	</header>
+
+	<article>
+	  {% for page in paginator.pages %}
+	  <h3>🔳 <a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+	  {% endfor %}
+	</article>
+
 {% endblock content %}

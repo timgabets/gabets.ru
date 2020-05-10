@@ -1,0 +1,48 @@
++++
+title = "Rewind '19"
+date = 2019-12-28
++++
+
+Песни, которые я слушал чаще всего в прошедшем году на [Яндекс.Музыке](https://music.yandex.ru/users/yamusic-rewind2019/playlists/2290167):
+
+* [Machine Head - Hallowed Be Thy Name](https://www.youtube.com/watch?v=moqETlmNHnE)
+* [Slipknot - Psychosocial](https://www.youtube.com/watch?v=5abamRO41fE)
+* [Slipknot - The Devil in I](https://www.youtube.com/watch?v=XEEasR7hVhA)
+* [ABBA - S.O.S.](https://www.youtube.com/watch?v=cvChjHcABPA)
+* [Rammstein - DEUTSCHLAND](https://www.youtube.com/watch?v=NeQM1c-XCDc)
+* [ABBA - Voulez-Vous](https://www.youtube.com/watch?v=za05HBtGsgU)
+* [Sandra - Japan ist weit](https://www.youtube.com/watch?v=RQXzV9Rzh-4)
+* [Lil Peep - Save That Shit](https://www.youtube.com/watch?v=WvV5TbJc9tQ)
+* [ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)](https://www.youtube.com/watch?v=XEjLoHdbVeE)
+* [Slipknot - Wait and Bleed](https://www.youtube.com/watch?v=B1zCN0YhW1s)
+* [Devlin - London City Part II](https://www.youtube.com/watch?v=sMI8efVEYeM)
+* [Inkubus Sukkubus - Paint It Black](https://www.youtube.com/watch?v=LCjq-3g9ewU)
+* [Lil Peep - Benz Truck (гелик)](https://www.youtube.com/watch?v=3rkJ3L5Ce80)
+* [Devlin - 1989](https://www.youtube.com/watch?v=fPChQfB3h1c)
+* [The Flirts - Helpless (You Took My Love)](https://www.youtube.com/watch?v=xdEyZ3-OjU8)
+* [Digital Emotion - Get Up Action](https://www.youtube.com/watch?v=o5ZA4TK1IhE)
+* [Die Antwoord - Rich Bitch](https://www.youtube.com/watch?v=8bdeizHM9OU)
+* [Big Russian Boss(feat. ЛСП, Young P&H) - Pimperial](https://www.youtube.com/watch?v=bOvOjHshX_0)
+* [Oxxxymiron - Девочка П..дец](https://www.youtube.com/watch?v=ptrZ_mCgxtk)
+* [Skunk Anansie - Love Someone Else](https://www.youtube.com/watch?v=3-Qh540VY8I)
+* [Vitamin X - About to Crack](https://www.youtube.com/watch?v=HtvHWaYfrhM)
+* [Комбинация - American Boy](https://www.youtube.com/watch?v=T_hCZ_5-rEc)
+* [Lacuna Coil - Enjoy the Silence](https://www.youtube.com/watch?v=Lx58hXh4pVA)
+* [Five Finger Death Punch - War Is the Answer](https://www.youtube.com/watch?v=QTCCgQLdHuU)
+* [Feint feat. Coma - Snake Eyes](https://www.youtube.com/watch?v=cvq7Jy-TFAU)
+* [Devlin - London City](https://www.youtube.com/watch?v=hmCoCTPWP-I)
+* [Пошлая Молли - Нон стоп](https://www.youtube.com/watch?v=pcI8C9i-aDw)
+* [Machine Head - Game Over](https://www.youtube.com/watch?v=ovVQFy9e7JU)
+* [Yaki-Da - I Saw You Dancing](https://www.youtube.com/watch?v=qx89ylJyeKU)
+* [Children Of Bodom - Everytime I Die](https://www.youtube.com/watch?v=5cEK1OLhUKQ)
+* [Arkona - Солнцеворот](https://www.youtube.com/watch?v=mwneCoXSxn4)
+* [Amatory - Первый](https://www.youtube.com/watch?v=C8QxjB8mV4o)
+* [Havok - Prepare For Attack](https://www.youtube.com/watch?v=egG_q2dYgaI)
+* [Paula Abdul - Straight Up](https://www.youtube.com/watch?v=El1kgCqD7Xk)
+* [Leaves' Eyes - To France](https://www.youtube.com/watch?v=lGoV5NdwPos)
+* [IAMX - I Come With Knives](https://www.youtube.com/watch?v=nt0MkotVIEc)
+* [AKADO - DARK SIDE](https://www.youtube.com/watch?v=NhWymI0zkho)
+* [Lana Del Rey - Ride](https://www.youtube.com/watch?v=Py_-3di1yx0)
+* [Skunk Anansie - I Believed In You](https://www.youtube.com/watch?v=7q3nm8b39oI)
+* [Iron Maiden - Hallowed Be Thy Name](https://www.youtube.com/watch?v=J51LPlP-s9o)
+
