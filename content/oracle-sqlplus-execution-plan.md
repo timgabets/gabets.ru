@@ -3,15 +3,7 @@ title = "Getting query execution plan in Oracle sqlplus"
 date = 2020-04-02
 +++
 
-```bash
-$ rlwrap sqlplus64 login/password@DB
-```
-
-```sql
-SQL> set autotrace traceonly explain;
-SQL> set linesize 10000;
-SQL> select * from dual;
-```
+{{ gist(url="https://gist.github.com/timgabets/fa11b840ea9cfd080c7c452e07951930") }}
 
 The result is:
 ```
