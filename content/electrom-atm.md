@@ -1,0 +1,16 @@
++++
+title = "electron-atm"
+date = 2017-07-30
++++
+
+I have been working in a Payment Card Industry since 2013, and almost always I have worked with ATM processing systems (a.k.a ATM Host - the systems to which ATMs are connected, and which process various messages from ATMs, including financial inquiries). And of course, while developing applications for these systems, there is a constant need for emulating the ATM messages coming to the host. The real ATMs are quite expensive for this purposes, and the obvious solution is to use various software ATM simulators. Since the market for ATM vendors is quite small, commercial ATM simulator applications (such as [this](https://eftlab.co.uk/index.php/babylon-payments-simulator/atm-bp-atm) are very expensive (what about $7000 annualy per each workstation 😱?). As a consequence, all the companies in which I worked, come out of this situation in an obvious way - writing their own closed-source ATM simulator. Sometimes it ends up in a complete failure.
+
+In July 2017, I finally got really fed up with this, and decided to start writing an open-source [Aptra NDC](https://www.ncr.com/financial-services/banking-atm-software/aptra-advance-ndc) ATM simulator, developed under the [LGPLv2 license](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) and available to everyone in the industry. After some brief checking of available programming languages, frameworks and technologies, I chose JavaScript and the [Electron framework](https://electron.atom.io) (in spite of the huge army of Electron-haters), first of all, because of its cross-platformness ("write once - run everywhere", including  Windows, Linux and MacOS), and the huge number of available JavaScript Libraries (for example, the excellent [visjs library](http://visjs.org/) for building graphs for visualizing ATM states structure).
+
+I started the development of the application (currently called [electron-atm](https://github.com/timgabets/electron-atm)) by forking [one of the Electron boilerplate-projects](https://github.com/electron/electron-quick-start). Following the minimal-viable-project (MVP) methodology (🚲 ➡ 🏍 ➡ 🚗 ➡ 🏎), I started with the basics: by implementing the networking subsystem, the host message parsing library (there is a private vendor-specific protocol of communicating with the host) and a minimal GUI. After two weeks of part-time development, the application looks like this:
+
+![Electron-atm circa July 2017](/img/electron-atm-july-2017.png)
+
+There are still a lot of features in the TODO-list that have not yet been implemented. However, thanks to JavaScript with its high development speed, in 2-3 months I plan to publish the first alpha release of working application that can communicate with the host, walk through the states/screens correctly and visually display the downloaded ATM configuration (probably [this way](http://visjs.org/examples/network/exampleApplications/disassemblerExample.html).
+
+To anybody interested in the project - your [contibutions](https://github.com/timgabets/electron-atm) of any kind are welcome!
