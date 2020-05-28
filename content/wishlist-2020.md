@@ -12,7 +12,7 @@ date = 2019-10-20
 * Наушники с шумоподавлением
 * [Книги из моего раздела "To-Read"](https://www.goodreads.com/review/list/15651299?shelf=to-read)
 * Любой стафф с <a href="https://articture.com/collections/frontpage">articture</a> - мне там нравится практически всё ><
-* Лимонное дерево
+* ~~Лимонное дерево~~
 * Подписка на бумажную версию [Rugby World Magazine](https://www.rugbyworld.com/subscriptions/rugby-world-subscriptions)
 * ~~Настольный календарь ЦФТ 2020 (кто не в теме - [вот прошлогодняя версия](https://finside.ru/12519/)~~
 * ~~Хочу очки, так что [сертификат в салон оптики](https://www.lensmaster.ru/kontaktnye-linzy/podarochnye-sertifikaty/) - тоже вполне себе вариант!~~
