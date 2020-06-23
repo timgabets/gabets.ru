@@ -1,0 +1,1 @@
+All the stuff for [my blog](https://gabets.ru/), powered by [Zola](https://github.com/getzola/zola) static site generator, written in [Rust](https://www.rust-lang.org/).
