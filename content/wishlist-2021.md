@@ -5,7 +5,7 @@ date = 2020-09-01
 +++
 
 * Инвентарь для игры в [го](https://ru.wikipedia.org/wiki/%D0%93%D0%BE)
-* [Lapel pins](https://www.etsy.com/search?q=lapel%20pin)
+* [Lapel pins](https://friendfunction.ru/shop/znachki-tatu-patchi/)
 * [Нагрудный пульсометр](https://www.ozon.ru/context/detail/id/158209289/)
 * [Bluetooth-аудио адаптер с RCA-разъёмами](https://www.ozon.ru/context/detail/id/160367225/)
 * [Беспроводная гарнитура](https://www.ozon.ru/product/bluetooth-naushniki-s-mikrofonom-jbl-tune-220tws-blue-176322150/)
