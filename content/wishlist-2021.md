@@ -10,7 +10,7 @@ date = 2020-09-01
 * [Беспроводная гарнитура](https://www.ozon.ru/product/bluetooth-naushniki-s-mikrofonom-jbl-tune-220tws-blue-176322150/)
 * Настольный календарь ЦФТ 2021
 * Хочу английский подучить, например, [тут](https://battle4britain.com/)
-* Простые fashion-часы с красной секундной стрелкой - например, [Timex Weekender](https://www.alltime.ru/watch/timex/T2N747VN/477591/) или ~~Ben Sherman](https://www.alltime.ru/watch/ben-sherman/WB062WUR/296977/)~~
+* Простые fashion-часы с красной секундной стрелкой - например, [Timex Weekender](https://www.alltime.ru/watch/timex/T2N747VN/477591/) или ~~[Ben Sherman](https://www.alltime.ru/watch/ben-sherman/WB062WUR/296977/)~~
 * Беспроводная зарядка для iphone SE
 * ~~Rolltop-рюкзак (что-то вроде [такого](https://goodlocal.ru/catalog/ryukzak_good_local_x_pushkinskiy_rolltop_stog_sena_v_zhiverni/) или [такого](https://goodlocal.ru/catalog/ryukzak_good_local_x_pushkinskiy_rolltop_skaly_v_etreta/))~~
 * Любой стафф с <a href="https://articture.com/collections/frontpage">articture</a> - мне там нравится практически всё ><
