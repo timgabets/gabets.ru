@@ -66,7 +66,7 @@ fortune delphic
 echo "fortune delphic" >> ~/.zshrc
 ```
 
-Открываем новую вкладку, и видим что-то вроде такого:
+Открываем новую вкладку, и наслаждаемся результатом:
 ![Fortune example](/img/fortune-macos.png)
 
 Норм совет, кстати.
