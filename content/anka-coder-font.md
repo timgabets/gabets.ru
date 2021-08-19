@@ -1,12 +1,11 @@
 +++
-title = "Anka Coder font"
+title = "Anka Coder"
 date = 2021-08-19
 +++
 
 Вот уже наверное лет пять я пользуюсь шрифтом [Anka Coder](https://fontlibrary.org/ru/font/anka-coder), и могу с уверенностью сказать, что это лучший моноширинный шрифт с поддержкой кириллицы (и с великолепным нулём):
 
-![Anka Coder font](/img/anka-coder-font.png)
-
+![Anka Coder font](/img/anka_coder.png)
 
 Этот шрифт я ставлю по умолчанию везде, куда только только можно - и в консоль, и в текстовый редактор, и в свой блог здесь на сайте. Ниже - короткий мануал по установке шрифта в MacOS:
 
@@ -18,9 +17,8 @@ date = 2021-08-19
 ### Sublime
 Шрифт в Sublime настраивается элементами font_face и font_size в Preferences->Settings:
 
-```
+```json
 {
-	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
 	"find_selected_text": true,
 	"font_face": "Anka/Coder",
 	"font_size": 16,
