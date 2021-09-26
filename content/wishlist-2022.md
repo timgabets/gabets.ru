@@ -9,5 +9,5 @@ date = 2021-09-26
 * [Lapel pins](https://friendfunction.ru/shop/znachki-tatu-patchi/)
 * [Нагрудный пульсометр](https://www.ozon.ru/context/detail/id/158209289/)
 * Настольный календарь ЦФТ 2022
+* [Портфель](https://www.farfetch.com/ru/shopping/men/barbour--item-13845944.aspx)
 * Компьютерные игры - [вот мой вишлист в Steam](https://store.steampowered.com/wishlist/profiles/76561198360726598/)
-
