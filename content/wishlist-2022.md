@@ -9,7 +9,8 @@ date = 2021-09-26
 * [Lapel pins](https://friendfunction.ru/shop/znachki-tatu-patchi/)
 * [Нагрудный пульсометр](https://www.ozon.ru/context/detail/id/158209289/)
 * Настольный календарь ЦФТ 2022
-* [Seiko 5](https://www.seikowatches.com/ru-ru/products/5sports/srpd65k2) ([или](https://www.seikowatches.com/ru-ru/products/5sports/srpd51k2) [или](https://www.seikowatches.com/ru-ru/products/5sports/srpd55k3))
+* Чернила для ручки ([синие](https://www.ozon.ru/product/chernila-flakon-pierre-cardin-50-ml-sinie-pc332-l16-231668315), [коричневые](https://www.ozon.ru/product/flakon-chernil-city-fantasy-eiffel-murky-brow-50-ml-pierre-cardin-282452267), [серые](https://www.ozon.ru/product/chernila-flakon-pierre-cardin-30-ml-serye-pc332-s9-232867843) или [чёрные](https://www.ozon.ru/product/chernila-flakon-pierre-cardin-50-ml-chernye-pc332-l12-217649067))
+* Seiko 5 ([такие](https://www.seikowatches.com/ru-ru/products/5sports/srpd65k2), [такие](https://www.seikowatches.com/ru-ru/products/5sports/srpd51k2) или [такие](https://www.seikowatches.com/ru-ru/products/5sports/srpd55k3))
 * [Портфель](https://ashwoodleather.ru/products/portfel_gareth_chestnut_brown)
 * Компьютерные игры - [вот мой вишлист в Steam](https://store.steampowered.com/wishlist/profiles/76561198360726598/)
 * Узкие галстуки (ну например, [чёрный](https://www.farfetch.com/ru/shopping/men/saint-laurent--item-15764302.aspx), [с черепами](https://www.farfetch.com/ru/shopping/men/alexander-mcqueen--item-12116710.aspx?storeid=9529), [в точку](https://www.farfetch.com/ru/shopping/men/fendi--item-16369312.aspx?storeid=10972), [снова чёрный](https://www.farfetch.com/ru/shopping/men/saint-laurent--item-15764302.aspx?storeid=9874) или [чёрный с Карлом](https://www.farfetch.com/ru/shopping/men/karl-lagerfeld--item-17066256.aspx?storeid=11920))
