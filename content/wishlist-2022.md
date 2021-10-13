@@ -14,5 +14,4 @@ date = 2021-09-26
 * [Портфель](https://ashwoodleather.ru/products/portfel_gareth_chestnut_brown)
 * Узкие галстуки (ну например, [чёрный](https://www.farfetch.com/ru/shopping/men/saint-laurent--item-15764302.aspx), [с черепами](https://www.farfetch.com/ru/shopping/men/alexander-mcqueen--item-12116710.aspx), [в точку](https://www.farfetch.com/ru/shopping/men/fendi--item-16369312.aspx), [снова чёрный](https://www.farfetch.com/ru/shopping/men/givenchy--item-17012901.aspx) или [чёрный с Карлом](https://www.farfetch.com/ru/shopping/men/karl-lagerfeld--item-17066256.aspx))
 * Регбийка [сборной Франции](https://www.lecoqsportif.com/uk-en/e-shop/rugby-ffr-jersey) или [сборной Англии](https://www.lovell-rugby.co.uk/shop/international/england) (Size M)
-* Акустическая гитара 🥴
 * [Подставка для регбийного мяча](https://www.ozon.ru/product/podstavka-dlya-regbiynogo-myacha-canterbury-326538499/)
