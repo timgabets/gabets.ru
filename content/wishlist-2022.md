@@ -17,3 +17,4 @@ date = 2021-09-26
 * [Шоссейный велосипед](https://www.ozon.ru/product/shosseynyy-velosiped-cube-attain-28-2021-311770743)
 * Регбийка [сборной Франции](https://www.lecoqsportif.com/uk-en/e-shop/rugby-ffr-jersey) или [сборной Англии](https://www.lovell-rugby.co.uk/shop/international/england) (Size M)
 * [Подставка для регбийного мяча](https://www.ozon.ru/product/podstavka-dlya-regbiynogo-myacha-canterbury-326538499/)
+* [Скамейка для медитации](https://www.ozon.ru/product/skameyka-dlya-meditatsii-ramayoga-bezhevyy-181045701)
