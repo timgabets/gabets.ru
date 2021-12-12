@@ -11,6 +11,7 @@ date = 2021-09-26
 * [Lapel pins](https://friendfunction.ru/shop/znachki-tatu-patchi/)
 * [Нагрудный пульсометр](https://www.ozon.ru/context/detail/id/158209289/)
 * Настольный календарь ЦФТ 2022
+* [Hansekarte](https://www.kalimedia.info/druckwerke/hansekarte/)
 * [Яндекс-станция](https://music.yandex.ru/station)
 * Seiko 5 ([65k2](https://www.seikowatches.com/ru-ru/products/5sports/srpd65k2), [51k2](https://www.seikowatches.com/ru-ru/products/5sports/srpd51k2) или [55k3](https://www.seikowatches.com/ru-ru/products/5sports/srpd55k3))
 * [Портфель](https://ashwoodleather.ru/products/portfel_gareth_chestnut_brown)
