@@ -21,3 +21,4 @@ date = 2021-09-26
 * [Подставка для регбийного мяча](https://www.ozon.ru/product/podstavka-dlya-regbiynogo-myacha-canterbury-326538499/)
 * [Скамейка для медитации](https://www.ozon.ru/product/skameyka-dlya-meditatsii-ramayoga-bezhevyy-181045701)
 * [Набор для приготовления коктейлей](https://www.todrink.ru/product/nabor-dlya-prigotovleniya-kokteyley-vse-vklyucheno)
+* Триммер
