@@ -9,7 +9,7 @@ date = 2021-12-13
 * [Настенные карты без багета](http://ky-map.ru/catalog/). ([Новая карта всей империи Великой России](http://ky-map.ru/catalog/map-06/) уже есть если что)
 * Инвентарь для игры в [го](https://ru.wikipedia.org/wiki/%D0%93%D0%BE)
 * [Lapel pins](https://friendfunction.ru/shop/znachki-tatu-patchi/)
-* [Нагрудный пульсометр](https://www.ozon.ru/context/detail/id/158209289/)
+* ~~[Нагрудный пульсометр](https://www.ozon.ru/context/detail/id/158209289/)~~
 * Настольный календарь ЦФТ 2022
 * [Hansekarte](https://www.kalimedia.info/druckwerke/hansekarte/)
 * [Яндекс-станция](https://music.yandex.ru/station)
