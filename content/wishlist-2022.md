@@ -22,3 +22,4 @@ date = 2021-12-13
 * ~~[Скамейка для медитации](https://www.ozon.ru/product/skameyka-dlya-meditatsii-ramayoga-bezhevyy-181045701)~~
 * ~~[Набор для приготовления коктейлей](https://www.todrink.ru/product/nabor-dlya-prigotovleniya-kokteyley-vse-vklyucheno)~~
 * Триммер
+* [Проигрыватель виниловых дисков](https://www.ozon.ru/product/proigryvatel-vinilovyh-diskov-audio-technica-at-lp60xusbgm-chernyy-153929639)
