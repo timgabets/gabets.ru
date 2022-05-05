@@ -32,7 +32,7 @@ date = 2022-04-30
 
 
 ## И ещё немного про Тинькофф
-Также, мне как сотруднику Тинькофф Банка, стало интересно, как менялся profit per employee компании с течением времнени. За основу были взяты годовых финансовых отчёта - за [2021](https://acdn.tinkoff.ru/static/documents/b92d1a66-7f5e-4a01-aadc-2ec420ab4dc9.pdf) и за [2019](https://acdn.tinkoff.ru/static/documents/0a10969e-abaf-463c-badd-afcbcdf49cdf.pdf).
+Также, мне как сотруднику Тинькофф Банка, стало интересно, как менялся profit per employee компании с течением времнени. За основу были взяты два годовых финансовых отчёта - за [2021](https://acdn.tinkoff.ru/static/documents/b92d1a66-7f5e-4a01-aadc-2ec420ab4dc9.pdf) и за [2019](https://acdn.tinkoff.ru/static/documents/0a10969e-abaf-463c-badd-afcbcdf49cdf.pdf).
 
 Собственно, всю _аналитику_ можно пострить, основываясь на четырёх предложениях из этих отчётов:
 2019:
