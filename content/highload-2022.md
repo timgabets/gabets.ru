@@ -3,11 +3,9 @@ title = "Highload++ 2022"
 date = 2022-05-13
 +++
 
-Выступил на конференции [Highload++](https://highload.ru/foundation/2022/abstracts/8170) с [докладом](/img/HL2022%20Gabets.pdf) о том, чем же мы занимались в процессинге Тинькофф с 2018 года:
+Выступил на конференции [Highload++](https://highload.ru/foundation/2022/abstracts/8170) с небольшим [докладом](/img/HL2022%20Gabets.pdf) о том, чем же мы занимались в процессинге Тинькофф с 2018 года:
 
 {{ youtube(id="KGi1tgNZIss") }}
-
-Сам доклад - [линк](/img/HL2022%20Gabets.pdf)
 
 Бэкстейдж:
 {{ youtube(id="mtspD7mKIF4") }}
