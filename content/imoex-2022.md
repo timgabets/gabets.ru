@@ -52,12 +52,12 @@ date = 2022-09-23
 Можно пойти чуть дальше в проверке нашей гипотезы, и посмотреть, а что было бы, если бы мы купили в начале года по одной акции Coca Cola, Apple, Газпрома и Роснефти (без учёта выплаченных дивидендов):
 
 |                   | 03.01.22          | 01.09.22   | Доходность, ₽  |
-| ----------------- | ----------------- | ---------- | -------------- |
-| [AAPL](https://finance.yahoo.com/quote/AAPL/)              | $182 = 13566₽      | $158 = 9528₽     | -29.7% | 
-| [KO](https://finance.yahoo.com/quote/KO/)              | $59 = 4397₽     | $61 = 3678₽    | -16.3% |
+| ----------------- | ---------------------- | ---------- | -------------- |
+| [AAPL](https://finance.yahoo.com/quote/AAPL/)              | $182=13566₽      | $158=9528₽     | -29.7% | 
+| [KO](https://finance.yahoo.com/quote/KO/)              | $59=4397₽     | $61=3678₽    | -16.3% |
 | [ROSN](https://www.moex.com/ru/issue.aspx?board=TQBR&code=ROSN) | 610₽  | 373₽ | -38.8% |
 | [GAZP](https://www.moex.com/ru/issue.aspx?board=TQBR&code=GAZP) | 353₽  | 249₽ | -29.4% |
-| [GAZP](https://www.moex.com/ru/issue.aspx?board=TQBR&code=PHOR) | 5936₽  | 8009₽ | +34.9% |
+| [PHOR](https://www.moex.com/ru/issue.aspx?board=TQBR&code=PHOR) | 5936₽  | 8009₽ | +34.9% |
 
 
 ## Краткий итог
