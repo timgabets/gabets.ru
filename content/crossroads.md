@@ -9,4 +9,8 @@ date = 2022-11-06
 
 И про [парикмахера, делавшего операцию Людовику XIV](https://vimeo.com/172989181):
 
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/172989181 "Crossroads of History | Full Episode | King Louis XIV Goes Under the Kinfe")
+
 Полный список серий есть на [рутрекере](https://rutracker.org/forum/viewtopic.php?t=5194541), и поверьте мне, оно того стоит ;) 
+
+{{ youtube(id="-p5X1FjyD_g") }}
