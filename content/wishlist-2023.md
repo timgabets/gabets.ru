@@ -12,5 +12,6 @@ date = 2022-11-20
 * [Сертификат от Risk Training](http://risk-training.pro/calendar)
 * Проигрыватель виниловых дисков
 * [Листва](https://vk.com/listva_books_msk) - очень атмосферный книжный магазин на Чистых Прудах, в которым можно найти невероятно крутые книги
-* Сборные модели броненосцев ([например](https://zvezda.org.ru/catalog/podarochnye_nabory/korabli_pn/voennye_korabli_pn/flagman_2_oy_tikhookeanskoy_eskadry_bronenosets_knyaz_suvorov_12102/)) 
+* Сборные модели броненосцев ([например](https://zvezda.org.ru/catalog/podarochnye_nabory/korabli_pn/voennye_korabli_pn/flagman_2_oy_tikhookeanskoy_eskadry_bronenosets_knyaz_suvorov_12102/))
+* TweedHats: [Шарфы](https://tweedhat.ru/cat/scarves), [галстуки](https://tweedhat.ru/cat/accessories), [бабочки](https://tweedhat.ru/cat/accessories) 
 
