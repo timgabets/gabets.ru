@@ -12,3 +12,4 @@ date = 2023-11-18
 * TweedHats: [Шарфы](https://tweedhat.ru/cat/scarves), [галстуки](https://tweedhat.ru/cat/accessories), [бабочки](https://tweedhat.ru/cat/accessories)
 * Книги издательства [Phaidon](https://www.ozon.ru/category/knigi-16500/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=phaidon)
 * Электроакустическая гитара
+* Маски участников группы Slipknot
