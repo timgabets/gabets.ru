@@ -13,3 +13,5 @@ date = 2023-11-18
 * Книги издательства [Phaidon](https://www.ozon.ru/category/knigi-16500/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=phaidon)
 * Электроакустическая гитара
 * Маски участников группы Slipknot
+* Bluetooth-колонка
+* [Анатомический атлас Грея](https://www.ozon.ru/product/atlas-anatomii-greya-uchebnoe-posobie-russkiy-angliyskiy-latinskiy-richard-l-dreyk-857892580)
