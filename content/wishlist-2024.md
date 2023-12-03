@@ -10,8 +10,9 @@ date = 2023-11-18
 * Сертификаты на изучение чего-то нового: [стрельба или тактическая медицина](http://risk-training.pro/calendar), [оказание первой помощи](https://www.redcross.ru/activity/first_aid/), [обучение часовому делу](https://watchschool.ru/), [что-нибудь кулинарное](https://novikovschool.com/school/direction/online).
 * Грампластинки - Pink Floyd, Iron Maiden, Metallica, Nirvana, Lana Del Rey, Linkin Park, you name it. Бременские Музыканты и Jesus Christ Superstar - тоже вполне себе норм. 
 * TweedHats: [Шарфы](https://tweedhat.ru/cat/scarves), [галстуки](https://tweedhat.ru/cat/accessories), [бабочки](https://tweedhat.ru/cat/accessories)
-* Книги издательства [Phaidon](https://www.ozon.ru/category/knigi-16500/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=phaidon)
+* Книга [Phaidon Motorcycles](https://www.ozon.ru/product/the-motorcycle-design-art-desire-falco-charles-1207050116)
 * Электроакустическая гитара
 * Маски участников группы Slipknot
 * Bluetooth-колонка
 * [Анатомический атлас Грея](https://www.ozon.ru/product/atlas-anatomii-greya-uchebnoe-posobie-russkiy-angliyskiy-latinskiy-richard-l-dreyk-857892580)
+* Триммер 
